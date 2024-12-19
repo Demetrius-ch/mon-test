@@ -1,1 +1,1 @@
-console.log("Bonjour 2020");
+console("Hello Word");
